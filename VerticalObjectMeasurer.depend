@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1684499288 source:d:\verticaltrigoproject\verticalobjectmeasurer\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<string>
+	<sstream>
+	<algorithm>
+	"trigoExtras.h"
+
+1684313430 d:\verticaltrigoproject\verticalobjectmeasurer\trigoextras.h
+	<iostream>
+	<cmath>
+	<math.h>
+
